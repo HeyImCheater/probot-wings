@@ -1,1 +1,2 @@
-# probot-wings
+# Probot ✨
+Epic Discord Bot
